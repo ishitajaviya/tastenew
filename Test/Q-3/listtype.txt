@@ -1,0 +1,47 @@
+Define the list types in HTML? 
+
+Ans:-
+
+List in HTML helps to display a list of information semantically.
+
+There are three types of lists in HTML
+
+1. Unordered list or Bulleted list (ul)
+2. Ordered list or Numbered list (ol)
+3. Description list or Definition list (dl)
+
+(1.)  Unordered List or Bulleted List
+
+In HTML unordered list, the list items have no specific order or sequence. 
+
+An unordered list is also called a Bulleted list, as the items are marked with bullets. 
+
+It begins with the <ul> tag and and closes with a </ul> tag. 
+
+The list items begin with the <li> tag and end with </li> tag.
+
+(2.)  Ordered List or Numbered List (ol)
+
+In HTML, all the list items in an ordered list are marked with numbers by default instead of bullets.
+
+ An HTML ordered list starts with the <ol> tag and ends with the </ol> tag.
+
+ The list items start with the <li> tag and end with </li> tag.
+
+ (3.) Description List or Definition List
+
+  the list items are listed like a dictionary or encyclopedia.
+ 
+  Each item in the description list has a description.
+  
+   You can use a description list to display items like a glossary. 
+   
+   You will need the following HTML tags to create a description list:
+
+<dl> (Definition list) tag – Start tag of the definition list
+
+<dt> (Definition Term) tag – It specifies a term (name)
+
+<dd> tag (Definition Description) – Specifies the term definition
+
+</dl> tag (Definition list) – Closing tag of the definition list

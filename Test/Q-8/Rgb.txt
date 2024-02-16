@@ -1,0 +1,17 @@
+What is meant by RGB stream?  set a background color of webpage using RGB stream?
+
+Ans:-
+
+RGB represents colors in CSS. 
+
+There are three streams in this nomenclature representing a color, namely the Red, Green, and Blue streams. 
+
+The intensity of colors is represented using numbers 0 to 255. This allows CSS to have a spectrum of visible colors.
+
+These three colors can be in form of numbers (0 to 255) or percentages.
+
+RGB(255, 0, 0) or  RGB(100%, 0, 0) is RED, as red is set to its highest value.
+
+RGB(0, 255, 0) or  RGB(0, 100%, 0)  is GREEN, as green is set to its highest value.
+
+RGB(0, 0, 255) or  RGB(0, 0, 100%) is BLUE, as blue is set to its highest value.
